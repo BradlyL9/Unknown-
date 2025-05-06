@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
-    <Young Dough Gaming<squarespace.com>
+    <Young Dough Gaming<.com>
     <https://www.youngdoughgaming.com<robots.txt>
     <pubDate>Sun, 06 Apr 2025 16:02:27 +0000</pubDate>
     <description />
